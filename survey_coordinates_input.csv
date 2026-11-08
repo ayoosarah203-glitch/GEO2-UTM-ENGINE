@@ -1,0 +1,9 @@
+Point_ID,Description,Latitude,Longitude,Elevation_m
+P001,Boundary Post A,0.3476,32.5825,1185.2
+P002,Boundary Post B,0.3521,32.589,1190.45
+P003,Control Station 1,0.3589,32.5955,1198.1
+P004,Control Station 2,0.361,32.601,1202.35
+P005,Tree Corner,0.3655,32.6085,1195.6
+P006,Road Intersection,0.3702,32.6142,1188.9
+P007,Gate Pillar,0.3748,32.6201,1182.15
+P008,Fence Corner,0.3801,32.6278,1179.8
